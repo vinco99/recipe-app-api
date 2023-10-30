@@ -22,4 +22,3 @@ def subtract(x, y):
 # def divide(x, y):
 #     """Divide x from y and return value"""
 #     return y / x
-
